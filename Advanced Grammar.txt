@@ -298,3 +298,52 @@ Examples
    *She found the box outside. 
 
 A noun is a word that names a person, place, thing,or idea. ... Nouns are words that name people, places, things, or ideas. They are not actually people, places, things, or ideas. After teaching grammar for some time, I was surprised at how many of my students weren't really clear on the whole "word" thing.
+
+
+  GNU nano 4.4                  Advanced Grammar.txt                  Modified
+
+Examples:
+
+   *They like playing golf a lot.
+   *She decided that she doesn't enjoy watching TV at all.
+   *She nearly flew to Boston, but decided not to go in the end.
+
+ *Adverbs of Place:
+Adverbs of place tell us where something happened. They include works such as n>
+
+Examples
+
+   *Tom will go anywhere with his dog.
+   *You'll find that there is nowhere like home.
+   *She found the box outside.
+
+A noun is a word that names a person, place, thing,or idea. ... Nouns are words>
+
+
+  GNU nano 4.4                  Advanced Grammar.txt                  Modified
+
+Examples:
+
+   *They like playing golf a lot.
+   *She decided that she doesn't enjoy watching TV at all.
+   *She nearly flew to Boston, but decided not to go in the end.
+
+ *Adverbs of Place:
+Adverbs of place tell us where something happened. They include works such as n>
+
+Examples
+
+   *Tom will go anywhere with his dog.
+   *You'll find that there is nowhere like home.
+   *She found the box outside.
+
+A noun is a word that names a person, place, thing,or idea. ... Nouns are words>
+
+
+ 
+Pronoun:Is used in place of a noun or noun phrase to avoid repetition.
+Example: I, You, It, We, Us, He, She, Them, Those.
+ * He studies hard to pass the exam.
+ * We were playing football with friends
+
+
